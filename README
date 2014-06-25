@@ -1,0 +1,4 @@
+pwv
+present working vpc
+
+Queries the EC2 metadata server to return the VPC id.
